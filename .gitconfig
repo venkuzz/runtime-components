@@ -1,0 +1,9 @@
+[user]
+	name = venkuzz
+	email = werewolf.venkata@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[pull]
+	rebase = true
